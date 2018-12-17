@@ -6,7 +6,7 @@
     <br>
 </p>
 
-[![Build Status](https://travis-ci.org/mikk150/yii2-authclient-cachestatestorage.svg?branch=master)](https://travis-ci.org/mikk150/yii2-authclient-cachestatestorage)
+[![Build Status](https://travis-ci.org/mikk150/yii2-authclient-cachestatestorage.svg?branch=master)](https://travis-ci.org/mikk150/yii2-authclient-cachestatestorage) [![codecov](https://codecov.io/gh/mikk150/yii2-authclient-cachestatestorage/branch/master/graph/badge.svg)](https://codecov.io/gh/mikk150/yii2-authclient-cachestatestorage)
 
 Installation
 ------------
